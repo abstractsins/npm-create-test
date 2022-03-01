@@ -10,13 +10,13 @@ Removes all spaces from a string.
 ## Install
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm install @abstractsins/test
 ```
 
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@abstractsins/test");
 
 tiny("So much space!");
 //=> "Somuchspace!"
