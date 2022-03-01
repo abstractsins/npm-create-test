@@ -1,0 +1,13 @@
+{
+    "name": "@abstractsins/test",
+    "version": "1.0.0",
+    "description": "Removes all spaces from a string",
+    "license": "MIT",
+    "repository": "abstractsins/npm-create-test",
+    "main": "index.js",
+    "keywords": [
+        "tiny",
+        "npm",
+        "package",
+        "abstractsins"
+  ]
